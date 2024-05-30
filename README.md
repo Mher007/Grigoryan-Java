@@ -10,8 +10,10 @@
 
 ## Компиляция и запуск
 
-### Задача 1: NumberOperations
+###
 
+### Задача 2: NumberOperations
+ 
 ```bash
 javac NumberOperations.java
 java NumberOperations
